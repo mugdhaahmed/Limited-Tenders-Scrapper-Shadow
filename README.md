@@ -243,9 +243,11 @@ Adapt to page changes automatically. Fail clearly and recover without data corru
 
 [#-documentation](#-documentation)
 
-- **[ARCHITECTURE.md](https://github.com/mugdhaahmed/Limited-Tenders-Scrapper-Shadow/blob/main/architecture/ARCHITECTURE.md)** - System design
-- **[DEPLOYMENT.md](https://github.com/mugdhaahmed/Limited-Tenders-Scrapper-Shadow/blob/main/deployment/DEPLOYMENT.md)** - Deployment procedures
-- **[DESIGN_DECISIONS.md](https://github.com/mugdhaahmed/Limited-Tenders-Scrapper-Shadow/blob/main/case-studies/DESIGN_DECISIONS.md)** - Design rationale
+- **[ARCHITECTURE.md](https://github.com/mugdhaahmed/Limited-Tenders-Scrapper-Shadow/blob/main/architecture/ARCHITECTURE.md)** - System design with 5 components and 5 patterns
+- **[DEPLOYMENT.md](https://github.com/mugdhaahmed/Limited-Tenders-Scrapper-Shadow/blob/main/docs/DEPLOYMENT.md)** - Production deployment procedures
+- **[TECHNICAL_SPEC.md](https://github.com/mugdhaahmed/Limited-Tenders-Scrapper-Shadow/blob/main/docs/TECHNICAL_SPEC.md)** - System requirements and configuration
+- **[DESIGN_DECISIONS.md](https://github.com/mugdhaahmed/Limited-Tenders-Scrapper-Shadow/blob/main/case-studies/DESIGN_DECISIONS.md)** - 10 key architectural decisions
+- **[CODE_SAMPLES.md](https://github.com/mugdhaahmed/Limited-Tenders-Scrapper-Shadow/blob/main/examples/CODE_SAMPLES.md)** - Design patterns and pseudocode
 
 ---
 
